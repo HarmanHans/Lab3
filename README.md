@@ -1,2 +1,2 @@
-# Lab3
-Twitter crawler
+# Twitter Crawler
+Lab 3
